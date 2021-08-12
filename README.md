@@ -1,2 +1,2 @@
 # TesteAutomatizadoWeb
-Esse foi um pequeno projeto que fiz durante uma formação, foi um desafio para realizar testes automatizados em uma pagina Web.
+Esse foi alguns projetosque fiz durante uma formação, foram alguns desafios para realizar testes automatizados em uma pagina Web, Aplicativo Android e Testes Unitarios.
